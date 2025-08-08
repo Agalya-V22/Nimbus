@@ -1,0 +1,2 @@
+# Nimbus
+Project Nimbus focuses on the development and application of cloud seeding techniques to stimulate artificial rainfall. The project aims to enhance water availability for agriculture, replenish reservoirs, and mitigate drought conditions.
